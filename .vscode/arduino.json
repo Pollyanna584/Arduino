@@ -2,5 +2,6 @@
     "board": "arduino:avr:uno",
     "programmer": "avrispmkii",
     "port": "/dev/tty.usbserial-10",
-    "sketch": "Arduino.ino"
+    "sketch": "Arduino.ino",
+    "output": "../ArduinoOutput"
 }
